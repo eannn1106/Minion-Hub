@@ -18,3 +18,4 @@ A standard industrialised USB hub costs around 20 USD onwards, but what if I tel
 # Layout
 <img width="333" height="475" alt="image" src="https://github.com/user-attachments/assets/f5f9ae75-523a-4b21-a52d-ac4f3ee31f4b" />
 
+# Zine
